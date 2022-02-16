@@ -1,5 +1,5 @@
 # API Rest com Node+Express
-Microsserviço de autenticação com API Rest com Node+Express desenvolvido durante o bootcamp Inter Front-End oferecido pela DIO.
+Microsserviço de autenticação utilizando API Rest com Node+Express desenvolvido durante o bootcamp Inter Front-End oferecido pela DIO.
 
 ---
 ## Sobre 
